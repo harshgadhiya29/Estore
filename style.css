@@ -860,6 +860,7 @@ text2 {
 .formbold-btn:hover {
   box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.05);
 }
+
 /* Container 6 end */
 
 /* Container 7 start */
@@ -877,7 +878,8 @@ text2 {
 }
 
 .text {
-  color: #000000; /* Bootstrap gray */
+  color: #000000;
+  /* Bootstrap gray */
   text-align: start;
 }
 
@@ -916,11 +918,11 @@ text2 {
 
 /* Container8 end */
 
-.text-reset{
+.text-reset {
   text-decoration: none;
 }
 
-.dropdown:hover .dropdown-menu{
+.dropdown:hover .dropdown-menu {
   display: block;
   margin-top: 0;
 }

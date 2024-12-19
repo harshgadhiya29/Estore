@@ -355,9 +355,12 @@
 /* Container1  start*/
 
 .bg-image {
+  width: 100%;
   height: 800px;
   background-image: url(Gallery/BG.jpg);
   background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
 }
 
 .text-primary {
